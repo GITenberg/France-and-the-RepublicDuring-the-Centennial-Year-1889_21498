@@ -1,0 +1,36 @@
+_repo: France-and-the-RepublicDuring-the-Centennial-Year-1889_21498
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hurlbert, William Henry
+    aliases:
+    - Hurlbut, William Henry
+    - Hurlburt, William Henry
+    birthdate: 1827
+    deathdate: 1895
+    gutenberg_agent_id: '5558'
+    url: http://www.gutenberg.org/2009/agents/5558
+description: ''
+gutenberg_issued: '2007-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21498'
+  lccn: 03029198
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Description and travel'
+- !lcsh 'France -- Politics and government -- 1870-1940'
+- !lcsh 'Republicanism -- France'
+title: 'France and the Republic
+
+  A Record of Things Seen and Learned in the French Provinces
+
+  During the ''Centennial'' Year 1889'
+url: http://www.gutenberg.org/ebooks/21498
